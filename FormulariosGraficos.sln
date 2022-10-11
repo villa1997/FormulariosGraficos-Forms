@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulariosGraficos", "FormulariosGraficos\FormulariosGraficos.csproj", "{1617973D-6974-4E7B-8466-95C6F4BE2363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1617973D-6974-4E7B-8466-95C6F4BE2363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1617973D-6974-4E7B-8466-95C6F4BE2363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1617973D-6974-4E7B-8466-95C6F4BE2363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1617973D-6974-4E7B-8466-95C6F4BE2363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9764743-519C-4C40-A571-6AC15DBB37AE}
+	EndGlobalSection
+EndGlobal
